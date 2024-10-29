@@ -23,7 +23,8 @@ DisableAfkKick
 DisableWindBarriers
 
 
-Master Mods                                                                                                                             Lucy Chase Gun   
+Master Mods
+Lucy Chase Gun 
 SpawnRedLucy   
 StartMoonEvent
 EndMoonEvent    
