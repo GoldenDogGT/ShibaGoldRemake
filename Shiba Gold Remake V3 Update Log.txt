@@ -1,0 +1,64 @@
+Shiba Gold Remake V3 Update Log
+
+Movment Mods
+ Long Arms
+ Platforms
+ Invis Platforms
+Sticky Platforms (NOTWORKING)
+Invis Sticky Platforms(NOTWORKING)
+Ghost Monke
+Invis Monke
+NoClip
+Fly
+Fast Fly
+Really Fast Fly
+Slow Fly
+Tracers
+
+Saftey Mods
+AntiBan
+AntiReport
+antimoderator
+DisableAfkKick
+DisableWindBarriers
+
+
+Master Mods                                                                                                                             Lucy Chase Gun   
+SpawnRedLucy   
+StartMoonEvent
+EndMoonEvent    
+SpawnBlueLucy
+DespawnLucy
+
+
+Fun Mods
+GrabDug(Need To be in forest)
+GrabBat (Need to be in caves)   
+TpGun(Buggy)
+
+
+Rig Mods
+SpazRig
+FixRig  
+UpsideDownHead    
+BackwardsHead    
+SpinHeadX
+SpinHeadY
+SpinHeadZ
+FlipHands
+FixHead
+
+    
+Legit Mods
+ForceEnableHands
+DisableNetworkTriggers
+EnableNetworkTriggers
+DisableMapLoaders
+EnableMapLoaders
+EnableCrashBox
+
+
+Visual Mods
+SetTimeToNight
+SetTimeToEvening
+SetTimeToMorning
