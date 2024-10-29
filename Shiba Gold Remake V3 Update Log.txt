@@ -1,4 +1,4 @@
-Shiba Gold Remake V3 Update Log
+Shiba Gold Remake V4 Update Log
 
 Movment Mods
  Long Arms
@@ -36,7 +36,8 @@ Fun Mods
 GrabDug(Need To be in forest)
 GrabBat (Need to be in caves)   
 TpGun(Buggy)
-
+Walk On Water
+Fix Water
 
 Rig Mods
 SpazRig
